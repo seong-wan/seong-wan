@@ -1,16 +1,17 @@
-### Hi there 👋
+# baekjoon
+This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+<div align="center">
 
-<!--
-**seong-wan/seong-wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=yerim's%20GitHub&descAlign=70.&descAlignY=44)
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+  <hr>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seong-wan&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjddktkdwk)](https://solved.ac/cjddktkdwk/)
+
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+</div>
